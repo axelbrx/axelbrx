@@ -2,10 +2,11 @@
 <h3 align="center">A IT Student who loves web development & UI/UX Design...</h3>
 
 - 🖥️ Last design project I worked for [Musical (Spotify-like application)](https://www.figma.com/file/nbSvZrwu3GKa0RUNNFU0gV/Musical-v1.0.1?type=design&node-id=0%3A1&mode=design&t=2GXMP2BHRLn9Lx0E-1)
-- 📫 How to reach me **bureaux.axel@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+- 📫 Email : **bureaux.axel@gmail.com**
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
