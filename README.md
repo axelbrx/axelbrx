@@ -2,7 +2,7 @@
 <h3>An IT Student who loves web development & UI/UX Design...</h3>
 
 
-- 🖥️ Last design project I worked for [Musical (Spotify-like application)](https://www.figma.com/file/nbSvZrwu3GKa0RUNNFU0gV/Musical-v1.0.1?type=design&node-id=0%3A1&mode=design&t=2GXMP2BHRLn9Lx0E-1)
+- 🖥️ Last design project I worked on [Musical (Spotify-like application)](https://www.figma.com/file/nbSvZrwu3GKa0RUNNFU0gV/Musical-v1.0.1?type=design&node-id=0%3A1&mode=design&t=2GXMP2BHRLn9Lx0E-1)
 
 
 <h3 align="left">Connect with me:</h3>
